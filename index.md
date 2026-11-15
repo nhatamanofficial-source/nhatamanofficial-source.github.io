@@ -7,3 +7,5 @@ Nhà Tâm An is a family cartoon channel ("Nhật Ký Xe Cafe Của Bố" – Da
 Contact: nhataman.official@gmail.com
 
 Privacy policy: [https://nhatamanofficial-source.github.io/privacy](https://nhatamanofficial-source.github.io/privacy)
+
+Terms of Service: [https://nhatamanofficial-source.github.io/terms](https://nhatamanofficial-source.github.io/terms)
