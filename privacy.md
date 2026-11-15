@@ -1,6 +1,6 @@
 # Privacy Policy – Nha Tam An Uploader
 
-Effective date: 15 November 2026
+Effective date: 15 November 2026 (updated 15 November 2026)
 
 ## 1. Who we are
 
@@ -26,6 +26,12 @@ This tool uses YouTube API Services. By using it you agree to the [YouTube Terms
 
 Access can be removed at any time at [https://security.google.com/settings/security/permissions](https://security.google.com/settings/security/permissions)
 
-## 7. Changes
+## 7. Data retention and deletion
+
+The tool keeps no personal data other than the Google access token, stored on the owner's computer. The token is kept only while the tool is in use. To delete it, the owner removes the YouTube credential from the tool and revokes access at the link in section 6; after that, the token no longer works. Videos uploaded with the tool can be edited or deleted at any time in YouTube Studio. For any question or deletion request, contact nhataman.official@gmail.com.
+
+## 8. Changes
 
 If this policy changes, the new version will be posted on this page with a new effective date.
+
+See also: [Terms of Service](https://nhatamanofficial-source.github.io/terms)
